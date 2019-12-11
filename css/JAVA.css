@@ -1,0 +1,40 @@
+body {
+	padding: 0;
+	font-family: "Arial", sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+	color: white;
+	background:  url(https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/eb7e73a0-96da-11e6-b385-00163ed833e7/4013307709/apple-java-for-mac-screenshot.png) no-repeat 50% 0;
+}
+p {
+	color: black;
+}
+h1 {
+	width:1000px;
+	font-family: "Arial", sans-serif;
+	font-size: 50px;
+	line-height: 50px;
+	float: center;
+}
+.site-header {
+	margin-bottom: 50px;
+	background-position: center;
+}
+.container {
+	width: 1000px;
+	margin: auto;
+}
+
+.features {
+	margin-bottom: 30px;
+}
+.features p {
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+	margin: 10px;
+	background-repeat: no-repeat;
+	background-position: center top;
+	text-transform: uppercase;
+	color: #B22222;
+}

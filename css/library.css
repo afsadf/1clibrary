@@ -1,0 +1,40 @@
+body {
+	padding: 0;
+	font-family: "Arial", sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+	color: white;
+	background: #32144f url(https://codehexz.com/wp-content/uploads/2019/05/C-free-udemy.jpg) no-repeat 50% 0;
+}
+p {
+	color: black;
+}
+h1 {
+	width:1000px;
+	font-family: "Arial", sans-serif;
+	font-size: 50px;
+	line-height: 50px;
+	float: center;
+}
+.site-header {
+	margin-bottom: 100px;
+	background-position: center;
+}
+.container {
+	width: 1000px;
+	margin: auto;
+}
+
+.features {
+	margin-bottom: 30px;
+}
+.features p {
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+	margin: 10px;
+	background-repeat: no-repeat;
+	background-position: center top;
+	text-transform: uppercase;
+	color: white;
+}

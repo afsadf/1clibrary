@@ -1,0 +1,40 @@
+body {
+	padding: 0;
+	font-family: "Arial", sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+	color: #000000;
+	background: #ffffff url("https://prelo-wordpress.s3.amazonaws.com/blog/2017/04/6-Situs-Untuk-Belajar-Bahasa-Inggris-Gratis.jpg")  no-repeat 15% 0;
+
+}
+h1 {
+	width: 600px;
+	font-family: "Arial", sans-serif;
+	font-size: 36px;
+	line-height: 36px;
+	float:center;
+}
+
+.site-header {
+	margin-bottom: 50px;
+}
+}
+.container {
+	width: 480px;
+	margin: 0 auto;
+}
+
+}
+.features {
+	margin-bottom: 30px;
+}
+.features p {
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+	margin: 0 5 px;
+	background-repeat: no-repeat;
+	background-position: center top;
+	text-transform: uppercase;
+	color: #ff2400;
+}
